@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ApexPlayer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
@@ -26,7 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# apex-player
-An Angular Music player using RxJS
->>>>>>> 1cdee985c6bbafdb0dcf4d07647eca67c3b41f40
